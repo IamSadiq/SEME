@@ -369,7 +369,7 @@ int menuOption(){
 	cout << "Press 3 to solve for 4 unknowns              Press 4 to Quit                   \n";
 	cout << "                                                                               \n";
 	cout << "===============================================================================\n";
-	cout << "==========CODING==============BY:SIDDIQUE ADAM============@SIDKID4U============\n";
+	cout << "==========CODING==============BY:SIDDIQUE ADAM============@abu_bakr_adam=======\n";
 
 	cin >> option;
 	if (option >0 && option <5){
