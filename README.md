@@ -1,2 +1,2 @@
 # Simultaneous Eqaution Made Easy
-A c++ simultaneous equation app.
+A c++ simultaneous equation CLI App.
